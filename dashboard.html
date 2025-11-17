@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dashboard - UTS Pemrograman Web 1</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="page-dashboard">
+  <header class="topbar">
+    <h1>Dashboard</h1>
+    <div class="top-actions">
+      <button id="logoutBtn" class="btn">Logout</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <nav>
+        <ul>
+          <li><a href="dashboard.html" class="active">Dashboard</a></li>
+          <li><a href="products.html">List Data Produk</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <main class="main-content">
+      <section class="summary-grid" aria-label="Ringkasan">
+        <div class="card">
+          <h3>Total Produk</h3>
+          <p id="totalProducts">-</p>
+        </div>
+        <div class="card">
+          <h3>Total Penjualan</h3>
+          <p id="totalSales">-</p>
+        </div>
+        <div class="card">
+          <h3>Total Revenue</h3>
+          <p id="totalRevenue">-</p>
+        </div>
+      </section>
+
+      <section class="actions-row">
+        <button id="btnViewProducts" class="btn primary">Lihat Data Produk</button>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
