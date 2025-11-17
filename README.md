@@ -1,14 +1,15 @@
 # UTS Pemrograman Web 1  
 Nama: Raditya Wildan Assyaif  
-NIM: 2305xxxxx  
+NIM: 24090012
+Kelas:3A
 
 
  Link Project
 GitHub Repository: 
-  https://github.com/username/uts-raditya-nim
+  [https://github.com/username/uts-raditya-nim](https://github.com/radityawildanassyaif/uts-Raditya-Wildan-Assyaif-24090012.git)
 
 GitHub Pages (Live Demo):
-  https://username.github.io/uts-raditya-nim/
+  https://radityawildanassyaif.github.io/uts-raditya-nim/
 
 Deskripsi Project
 
