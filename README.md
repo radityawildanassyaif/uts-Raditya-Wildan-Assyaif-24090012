@@ -9,7 +9,7 @@ GitHub Repository:
   [https://github.com/username/uts-raditya-nim](https://github.com/radityawildanassyaif/uts-Raditya-Wildan-Assyaif-24090012.git)
 
 GitHub Pages (Live Demo):
-  https://radityawildanassyaif.github.io/uts-raditya-nim/
+  https://radityawildanassyaif.github.io/uts-raditya-24090012/
 
 Deskripsi Project
 
